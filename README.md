@@ -15,7 +15,6 @@
 #http://wp.anxwl.cn/down.php/5219c327b90a65fc2020c77ba6dc6911.txt
 #http://home.jundie.top:81/TVBox/yosakoi.json
 #http://s.nxw.so/vip
-#https://raw.liucn.cc/box/m.json
 #http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
 #https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 #https://download.kstore.space/download/2863/01.txt
