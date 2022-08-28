@@ -44,3 +44,4 @@
 #https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json
 #https://gitea.com/yuegu09/aziy/raw/branch/main/zi71501.json
 #https://gitea.com/hongdeng98/YH/raw/branch/main/Mao0820.json
+#http://xiaoz123.ysepan.com/
