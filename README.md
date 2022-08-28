@@ -5,6 +5,7 @@
 #http://刚刚.live/A佬
 #http://mtv.weetai.cn/mtv/260.txt
 #http://maoyingshi.cc/tvbox/云星日记/1.m3u8
+#http://api.xiaoz.fit/1.json
 #https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 #https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/0821.json
 #https://cn.kstore.space/download/2710/zn777/kaisu220821.txt
