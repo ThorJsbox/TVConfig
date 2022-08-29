@@ -45,4 +45,6 @@
 #https://gitea.com/yuegu09/aziy/raw/branch/main/zi71501.json
 #https://gitea.com/hongdeng98/YH/raw/branch/main/Mao0820.json
 #http://xiaoz123.ysepan.com/
+#https://gitea.com/dxa/1/raw/branch/main/1.json
+#https://gitea.com/nb/kls/raw/branch/master/a9.json
 #tvbos竖屏版http://js.134584.xyz/json/pp87.json
