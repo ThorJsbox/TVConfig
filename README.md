@@ -56,5 +56,6 @@
 #https://freed.yuanhsing.cf/TVBox/meowcf.json
 #https://gitea.com/xyyx/TVBox/raw/branch/main/tv.json
 #https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json
-#tvbos多接口版本专用https://gitea.com/01/0/raw/branch/0
-#tvbos竖屏版http://js.134584.xyz/json/pp87.json
+#tvbox多接口版本专用https://gitea.com/01/0/raw/branch/0
+#tvbox多接口版本专用https://gitea.com/apkcore/apk_release/raw/branch/main
+#tvbox竖屏版http://js.134584.xyz/json/pp87.json
