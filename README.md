@@ -48,4 +48,13 @@
 #http://xiaoz123.ysepan.com/
 #https://gitea.com/dxa/1/raw/branch/main/1.json
 #https://gitea.com/nb/kls/raw/branch/master/a9.json
+#http://52bsj.vip:98/wuai
+#https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json
+#https://dxawi.github.io/0/0.json
+#https://gitea.com/tk9527m/json/raw/branch/master/ts.json
+#https://agit.ai/n/b/raw/branch/a/b/c.json
+#https://freed.yuanhsing.cf/TVBox/meowcf.json
+#https://gitea.com/xyyx/TVBox/raw/branch/main/tv.json
+#https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json
+#tvbos多接口版本专用https://gitea.com/01/0/raw/branch/0
 #tvbos竖屏版http://js.134584.xyz/json/pp87.json
