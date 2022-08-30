@@ -1,4 +1,5 @@
 #https://gitea.com/explore/repos
+#http://miaotvs.cn/osc
 #https://神器每日推送.tk/pz.json
 #https://liucn.cc/box/m.json
 #http://刚刚.live/猫
