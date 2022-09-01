@@ -46,7 +46,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json"
+      "ext": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json",
+      "jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu_0901.jar"
     },
     {
       "key": "csp_虎牙直播",
@@ -1588,5 +1589,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api",
-  "spider": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/huya1.jar"
+  "spider": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/tvbox.jar"
 }
