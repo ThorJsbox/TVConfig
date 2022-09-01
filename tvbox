@@ -46,7 +46,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json"
+      "ext": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json"
     },
     {
       "key": "csp_虎牙直播",
