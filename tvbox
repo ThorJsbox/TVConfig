@@ -46,7 +46,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/huya1.jar"
+      "jar": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json"
     },
     {
       "key": "csp_虎牙直播",
@@ -1588,5 +1588,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api",
-  "spider": "https://raw.kgithub.com/ThorJsbox/TVConfig/main/tvbox.jar"
+  "spider": "https://神器每日推送.tk/jar;md5;72516081fdbc90a08d4cdaa98be6de5b"
 }
