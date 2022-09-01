@@ -1,5 +1,6 @@
 {
   "sites": [
+  {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/kuyun77.jar"},
     {
       "key": "csp_视界影视",
       "name": "视界影视",
@@ -106,7 +107,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/kuyun77.jar"},
     {
       "key": "csp_293视频",
       "name": "293视频",
