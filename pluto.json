@@ -61,20 +61,20 @@
 {"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_293视频","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_简影影视","name":"影视┃简影影视","type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"},
-{"key":"csp_利奥影视","name":"影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_利奥影视","name":"影视┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_焦炭影视","name":"影视┃焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_三五电影","name":"影视┃三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_两个磁力","name":"影视┃两个磁力","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
 //切片源
-{"key":"csp_音丝范4K","name":"影视┃音丝范4K","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPath/yinfans.json"},
-{"key":"csp_不卡影院","name":"影视┃不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/buka.json"},
-{"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/6d.json"},
-{"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/tegou.json"},
-{"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/honglingjin.json"},
-{"key":"csp_北川影视","name":"影视┃北川影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/bcwzg.json"},
-{"key":"csp_达龟影视","name":"影视┃达龟影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/dadagui.json"},
+{"key":"csp_音丝范4K","name":"影视┃音丝范4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPath/yinfans.json"},
+{"key":"csp_不卡影院","name":"影视┃不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/buka.json"},
+{"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/6d.json"},
+{"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/tegou.json"},
+{"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/honglingjin.json"},
+{"key":"csp_北川影视","name":"影视┃北川影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/bcwzg.json"},
+{"key":"csp_达龟影视","name":"影视┃达龟影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/dadagui.json"},
 
 //服务器
 {"key": "T4","name": "聚合┃T4爬虫源","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},{"list":["bdys01","bttwoo","cokemv","czspp","ddys","dy555","gitcafe","libvio","onelist","smdyy","voflix","yiso","zhaoziyuan"]},
