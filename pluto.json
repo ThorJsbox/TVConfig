@@ -39,16 +39,16 @@
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="]}]}],
 
 "sites":[
-//做主页专用
+//做主页
 {"key":"csp_酷云七七","name":"影视┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/kuyun77.jar"},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-//看比赛专用
+//看比赛
 {"key":"csp_xpath_88kanqiu","name":"体育┃巴巴看球","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPath/88kanqiu.json"},
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/ThorJsbox/TVConfig@main/XPathFilter/jrskan.json"},
 
-//看直播专用
+//看直播
 {"key":"csp_虎牙直链","name":"直播┃虎牙直链","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json","jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu.jar"},
 {"key":"csp_虎牙直播","name":"直播┃虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPathMacFilter/huya2.json"},
 {"key":"csp_斗鱼直播","name":"直播┃斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/douyu.json"},
