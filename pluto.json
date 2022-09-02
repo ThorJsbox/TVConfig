@@ -54,7 +54,7 @@
 {"key":"csp_虎牙直播","name":"直播┃虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPathMacFilter/huya2.json"},
 {"key":"csp_斗鱼直播","name":"直播┃斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/douyu.json"},
 {"key":"csp_哔哩哔哩","name":"直播┃哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/Bili/bili.json"},
-{"key":"csp_直播合集","name":"直播┃直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_直播合集","name":"直播┃聚合直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
 //爬虫源
 {"key":"csp_小苹果源","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -91,23 +91,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-
-{
-"name":"GGTV",
-"type":1,
-"url":"https://play.fuqizhishi.com/gang0830/API.php?appkey=duibuqi0829&url="
-},
-{
-"name":"GGTV1",
-"type":1,
-"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="
-},
-
-{
-"name":"yunyou",
-"type":1,
-"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
-},
 
 {
 "name":"aiku",
