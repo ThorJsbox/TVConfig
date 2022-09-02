@@ -28,11 +28,11 @@
 //"dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},"response":{"result":"$.data.content"},"expires":"43200"}],
 
 //豆瓣推荐
-"recommend":[{"name":"豆瓣推荐","request":{"method":"GET","header":[{"key":"Referer","value":"https://movie.douban.com/"}],"url":{"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response":{"result":"$.data","data":[{"key":"name","value":"title"},{"key":"note","value":"rate"},{"key":"pic","value":"cover"}]},"expires":"86400"}],
-"rating":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},"response":{"result":"this","data":[{"key":"rating","value":"doubanRating"}]}}],
+//"recommend":[{"name":"豆瓣推荐","request":{"method":"GET","header":[{"key":"Referer","value":"https://movie.douban.com/"}],"url":{"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response":{"result":"$.data","data":[{"key":"name","value":"title"},{"key":"note","value":"rate"},{"key":"pic","value":"cover"}]},"expires":"86400"}],
+//"rating":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},"response":{"result":"this","data":[{"key":"rating","value":"doubanRating"}]}}],
 
 //分流
-"pullWord":[{"name":"pullWord","request":{"method":"GET","url":{"raw":"http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"}},"response":{"data":[{"key""keyword","value":"t"}]}}],
+//"pullWord":[{"name":"pullWord","request":{"method":"GET","url":{"raw":"http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"}},"response":{"data":[{"key""keyword","value":"t"}]}}],
 
 //电视直播解码地址：https://base64.us/
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
