@@ -47,7 +47,9 @@
 //看比赛
 {"key":"csp_xpath_88kanqiu","name":"体育┃巴巴看球","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPath/88kanqiu.json"},
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/ThorJsbox/TVConfig@main/XPathFilter/jrskan.json"},
-
+{"key":"csp_直播球吧1","name":"体育┃直播球吧1","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/zhibo8.json"},
+{"key":"csp_直播球吧2","name":"体育┃直播球吧2","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XBiubiu/zhibo8.json"},
+  
 //看直播
 {"key":"csp_虎牙直链","name":"直播┃虎牙直链","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu/huya1.json","jar":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XYQBiu.jar"},
 {"key":"csp_虎牙直播","name":"直播┃虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/ThorJsbox/TVConfig/main/XPathMacFilter/huya2.json"},
