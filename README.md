@@ -4,7 +4,7 @@
 #https://liucn.cc/box/m.json
 #http://刚刚.live/猫
 #http://刚刚.live/A佬
-#http://mtv.weetai.cn/mtv/260.txt
+#http://mtv.weetai.cn/mtv/270.txt
 #http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 #http://api.xiaoz.fit/1.json
 #https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
