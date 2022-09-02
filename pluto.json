@@ -83,7 +83,7 @@
 {"key":"csp_阿里盘搜","name":"阿里┃阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_易搜资源","name":"阿里┃易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_找资源搜","name":"阿里┃找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"push_agent"     ,"name":"阿里┃推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}],
+{"key":"push_agent"     ,"name":"手机┃推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"}],
 
 //解析设置
 "parses":[
