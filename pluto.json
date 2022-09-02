@@ -17,7 +17,7 @@
 //"spider":"https://cdn.jsdelivr.net/gh/ThorJsbox/TVConfig@main/tvbox.jar",
 
 //默认颜色，字体大小
-//"subtitle":{"color":"#FFFFFF","size":"18"},
+"subtitle":{"color":"#FFFFFF","size":"18"},
 
 //主题桌面(API随机主题)
 "wallpaper":"https://tool.weetai.cn/api/images/03.png",
