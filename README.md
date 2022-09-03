@@ -1,4 +1,5 @@
 #https://gitea.com/explore/repos
+#https://gitea.com/apkcore/apk_release
 #http://miaotvs.cn/osc
 #https://神器每日推送.tk/pz.json
 #https://liucn.cc/box/m.json
