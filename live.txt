@@ -233,7 +233,7 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
 东森新闻,mitv://ns2.hellotvvod.com:9906/0501fdfb0a3643288bd4b0838ad3c7bc
 东森新闻,mitv://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
-//中天新闻,http://59.124.81.19:8555/.m3u8
+中天新闻,http://59.124.81.19:8555/.m3u8
 
 
 卫视频道,#genre#
@@ -342,11 +342,11 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 纬来体育,http://iptv.everydaytv.top/taiwanlive.php?id=59
 纬来体育,http://218.32.47.179:18563/.m3u8
 纬来体育,http://60.251.39.247:8503/.m3u8
-//博斯体育,http://iptv.everydaytv.top/taiwanlive.php?id=60
-//爱尔达1,rtmp://59.124.75.138/sat/tv731
-//爱尔达1,http://iptv.everydaytv.top/taiwanlive.php?id=62
-//爱尔达2,rtmp://59.124.75.138/sat/tv741
-//爱尔达2,http://iptv.everydaytv.top/taiwanlive.php?id=63
+博斯体育,http://iptv.everydaytv.top/taiwanlive.php?id=60
+爱尔达1,rtmp://59.124.75.138/sat/tv731
+爱尔达1,http://iptv.everydaytv.top/taiwanlive.php?id=62
+爱尔达2,rtmp://59.124.75.138/sat/tv741
+爱尔达2,http://iptv.everydaytv.top/taiwanlive.php?id=63
 JJ斗地主,http://txtest-xp2p.p2p.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.xs
 JJ斗地主,http://diyp.112114.xyz/douyu/488743
 JJ斗地主,https://live.52sf.ga/douyu/488743
@@ -376,7 +376,7 @@ JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 周星驰电影,http://wabc.ml/huya.php?id=11342412
 周星驰电影,https://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
 周星驰电影,https://live.52sf.ga/huya/11342412
-//HBO-HD,http://iptv.everydaytv.top/taiwanlive.php?id=53
+HBO-HD,http://iptv.everydaytv.top/taiwanlive.php?id=53
 
 
 戏曲频道,#genre#
@@ -396,7 +396,7 @@ JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 梨园戏曲,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 梨园戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
-//岭南戏曲,http://113.116.56.252:8181/tsfile/live/1104_1.m3u8
+岭南戏曲,http://113.116.56.252:8181/tsfile/live/1104_1.m3u8
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 春晚小品,http://wabc.ml/huya.php?id=11352875
 春晚小品,https://tx.flv.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.flv
