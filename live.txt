@@ -145,7 +145,6 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 凤凰中文,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 凤凰中文,http://27.47.71.245:808/hls/32/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文,p2p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 凤凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
 凤凰中文,mitv://ns2.hellotvvod.com:9906/9f480217781e48318ce2c83519e642b7
@@ -180,7 +179,6 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 凤凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 凤凰香港,mitv://ns2.hellotvvod.com:9906/d5ff765ffbc94f32b22d0ad25fa5eb7b
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS-HD,https://pull-rtmp-l6.ixigua.com/live/712087510a6f074c97383d8f1a0543f2.flv
 TVBS-HD,http://146.56.155.239:9000/jmsytb.m3u8?c=30
 TVBS-HD,http://sam.sam521.xyz:9000/jmsytb.m3u8?c=30
 TVBS-HD,http://172.96.160.182/live/nn.php?id=37
@@ -326,8 +324,8 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 
 
 地方频道,#genre#
-辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
+辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 辽宁都市,rtsp://60.22.151.41/PLTV/88888888/224/0/3221226079/000000000cax.smil
 辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
