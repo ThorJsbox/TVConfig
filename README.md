@@ -61,3 +61,4 @@
 #tvbox多接口版本专用https://gitea.com/01/0/raw/branch/0
 #tvbox多接口版本专用https://gitea.com/apkcore/apk_release/raw/branch/main
 #tvbox竖屏版http://js.134584.xyz/json/pp87.json
+#小苹果jar的http://45.125.46.61/xpg.jar#http://45.125.46.61/box/jar/777.png
