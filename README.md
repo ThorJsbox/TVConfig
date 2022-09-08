@@ -62,3 +62,12 @@
 #tvbox多接口版本专用https://gitea.com/apkcore/apk_release/raw/branch/main
 #tvbox竖屏版http://js.134584.xyz/json/pp87.json
 #小苹果jar的http://45.125.46.61/xpg.jar#http://45.125.46.61/box/jar/777.png
+#海阔道长,https://gitcode.net/qq_32394351/dr_py
+#Tangsan,https://gitea.com/Pandora2277/Box/
+#Python T4,https://github.com/sec-an/TV_Spider
+#冰点娱乐️,https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json
+#白嫖️,https://gitea.com/33/3/raw/branch/3/3/1
+#影阁,http://152.136.125.181:81/MM/dianbos/xianlu00.json
+#六神,https://box.okeybox.top/tv/shyi.json
+#多多,https://gitea.com/yanan/mao/raw/branch/main/000.m3u8
+#虎虎,https://gitea.com/hucongrong/1/raw/branch/main/hu/hu.json
