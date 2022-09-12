@@ -5,6 +5,7 @@
 #https://liucn.cc/box/m.json
 #http://刚刚.live/猫
 #http://刚刚.live/A佬
+#https://limb.neocities.org/tv/xpg.json
 #http://mtv.weetai.cn/mtv/270.txt
 #http://maoyingshi.cc/tvbox/云星日记/1.m3u8
 #https://gitcode.net/q284855646/TVBox/-/raw/main/tv.json
